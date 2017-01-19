@@ -1,2 +1,5 @@
 # hello-world
-My first stab at figuring this thing out
+
+Well, hello there!
+
+Just figuring out what a 'git' and a 'hub' are. Not so techy.... yet.
